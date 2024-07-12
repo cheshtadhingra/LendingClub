@@ -1,0 +1,15 @@
+,Feature,Logistic_regression_feature_weights
+2,last_pymnt_amnt,3.92889392153438
+6,last_pymnt_d_year,2.805110487946968
+5,emp_length,0.2110097756267347
+11,annual_inc,0.14511839126350273
+7,verification_status,0.10672465002703442
+3,earliest_cr_line_month,0.03968200538214899
+12,total_rec_late_fee,-0.01846103933718927
+13,inq_last_6mths,-0.1938092988788996
+10,dti,-0.22570288892460236
+8,revol_util,-0.29151181842334667
+0,pub_rec,-0.36596643858505234
+9,last_credit_pull_d_year,-3.1102125221188883
+4,term_months,-3.427155564126248
+1,recoveries,-5.08880449721872
